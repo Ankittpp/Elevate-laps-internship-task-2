@@ -1,0 +1,34 @@
+open your .pbix file in Power BI Desktop.
+
+Go to the Data View (left-hand panel, looks like a table).
+
+Select the table you want to export.
+
+In the top menu, click:
+Home → Transform Data → Transform
+This will open Power Query Editor.
+
+In Power Query, click:
+File → Export → Export Data to CSV
+(or right-click the table → Copy Table → paste into Excel → Save as CSV).
+
+
+My Work Summary
+  
+I analyzed 500 customer orders across 336 unique customers to understand overall performance.
+
+I tracked ₹437K in total sales and ₹37K in profit, giving a clear view of the business’s financial health.
+
+I broke down performance by categories:
+
+Electronics contributed the most sales (₹166K),
+
+Clothing performed strongly (₹144K),
+
+Furniture followed (₹127K).
+
+I assessed payment behavior, finding that Cash on Delivery (COD) was the most used option, followed by UPI and cards.
+
+I identified the top-performing cities — Indore, Mumbai, and Pune — as major contributors to revenue.
+
+Through this work, I provided a front-view analysis that highlights key KPIs, customer behavior, category performance, and geographic insights, which can guide business decisions.
